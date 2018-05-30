@@ -8,9 +8,17 @@ Example:
 node app.js (instruction) -t ="" -b=""
 
 Commands:
+
+
   app.js add     Add a new note
+  
+  
   app.js list    List all notes
+  
+  
   app.js read    Read a Note
+  
+  
   app.js remove  Remove a Note
 
 
