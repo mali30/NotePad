@@ -1,5 +1,5 @@
 //console.log("Starting app.js");
-console.log("pushing this change to repo");
+//console.log("pushing this change to repo");
 
 const _ = require('lodash');
 const yargs = require('yargs');
